@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LifeCycle</string>
+    <string name="title_activity_my_life_cycle">LifeCycle</string>
+    <string name="btn_txt">Jump to Activity B</string>
+    <string name="actb_txt">you are in Activity B</string>
+</resources>
